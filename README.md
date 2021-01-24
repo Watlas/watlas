@@ -10,3 +10,17 @@
 
 ### About me
 Atualmente cursando ADS 4º periodo
+
+
+<p align="center">
+  <a href="https://github.com/Watlas/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Watlas&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
+
+
+
