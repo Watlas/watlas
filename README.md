@@ -9,7 +9,7 @@
 </a>
 
 ### About me
-Atualmente cursando ADS 4º periodo
+Technician in DEV of SOLUTI digital certification currently and attending the 4th period of ADS at SENAI FATESG college
 
 
 <p align="center">
