@@ -17,16 +17,20 @@ Technician in DEV of SOLUTI digital certification currently and attending the 4t
     <img
       align="center"
       height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Watlas&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Watlas/github-readme-stats">
+    <img
+      align="center"
+      height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watlas&theme=blue-green"
     />
   </a>
 </p>
-<br>
-
-
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Watlas&theme=blue-green)
-
 
 
 
