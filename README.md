@@ -23,7 +23,7 @@ Technician in DEV of SOLUTI digital certification currently and attending the 4t
 </p>
 <br>
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Watlas&theme=blue-green)
 
 
 
