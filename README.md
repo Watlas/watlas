@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/watlas-rick-371392181/)](https://www.linkedin.com/in/watlas-rick-371392181/)
 
-[![Githlab Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Watlas)](https://github.com/Watlas)
+[![Githlab Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Gitlab&logoColor=white&link=https://github.com/Watlas)](https://github.com/Watlas)
 
 
 <a href="mailto:watlas.trindade@soluti.com.br?subject=Questions" title="Email-Watlas">
