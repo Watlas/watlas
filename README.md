@@ -6,6 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/watlas-rick-371392181/)](https://www.linkedin.com/in/watlas-rick-371392181/)
 
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-000?style=flat-square&logo=Outlook&logoColor=white&link=https://gitlab.com/Watlas)](https://gitlab.com/Watlas)
 
 <a href="mailto:watlas.trindade@soluti.com.br?subject=Questions" title="Email-Watlas">
     <img alt="Walas Rick" src="https://img.shields.io/badge/Watlas Rick-Gmail-red">
