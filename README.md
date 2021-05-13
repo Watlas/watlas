@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/watlas-rick-371392181/)](https://www.linkedin.com/in/watlas-rick-371392181/)
 
 ### About me
-Technician in DEV of SOLUTI digital certification currently and attending the 4th period of ADS at SENAI FATESG college
+DEV of SEMAD currently and attending the 4th period of ADS at SENAI FATESG college
 
 
 <p align="center">
